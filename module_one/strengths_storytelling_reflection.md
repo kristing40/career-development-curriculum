@@ -11,3 +11,5 @@ Build on your professional story by thinking about how you're progressing at Tur
 * How might these themes play a role in describing your Turing story?
 
 * Even though your Turing story isn't finished yet, what do you envision for your development in future mods? How will this story end?
+
+# link to Strengths and Storytelling Reflection-Kristi Green https://gist.github.com/kristing40/0c9a8a03d779512b213a6c98f36f1d62
